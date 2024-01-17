@@ -1,7 +1,6 @@
 # My examples for DevOps
 ```
-├── cli - AWS cli commands
-├── k8s - Kubernetes examples
+├── aws-cli - AWS cli commands
 ├── packer - Packer examples
 └── terraform - Terraform examples
 ```

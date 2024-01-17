@@ -1,5 +1,0 @@
-namespace: 
- name: stage
-
-replicas:
-  count: 2

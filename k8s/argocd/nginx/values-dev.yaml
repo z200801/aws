@@ -1,5 +1,0 @@
-namespace: 
- name: dev
-
-replicas:
-  count: 1

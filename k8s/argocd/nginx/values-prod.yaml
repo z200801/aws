@@ -1,5 +1,0 @@
-namespace: 
- name: prod
-
-replicas:
-  count: 3
